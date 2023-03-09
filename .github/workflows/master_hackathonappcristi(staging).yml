@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'hackathonappcristi'
           slot-name: 'Staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA9FFD6349EC40CB91931E8099B36D98 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A41BEBB774B94E15A7CFB25308FE9F19 }}
           package: .
